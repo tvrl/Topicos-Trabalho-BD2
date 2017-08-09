@@ -24,6 +24,8 @@ Yago Henrique Zanon Trarbach: yagozt.henrique@gmail.com
 
 ### 2	INTRODUÇÃO E MOTIVAÇAO<br>
 Este documento contém a especificação do projeto do banco de dados <nome do projeto> e motivação da escolha realizada. <br>
+    
+O Aplicativo appMuseu que visa auxiliar o ramo de museus tanto para as empresas quanto para os clientes visitantes, disponibilizando as informações dos museus e as obras que nele estão localizadas, mostrar as informações das obras, o que e como os clientes avaliaram um determinado museu e suas obras, incentivando as visitas e a mobilidade.
       
 ### 3	MINI-MUNDO<br>
 O appMuseu é um aplicativo voltado para mobilidade e disponibilidade de informações para pessoas e empresas interessadas nas visitas ao museus , as obras que possuem e todas as suas informações. A utilização da aplicação é totalmente feita via aplicativo de celular. 
