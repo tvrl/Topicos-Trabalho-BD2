@@ -19,13 +19,20 @@ Trabalho desenvolvido durante a disciplina de BD
 # Sumário
 
 ### 1	COMPONENTES<br>
-Integrantes do grupo<br>
+Thalles Vargas Ribeiro Lopes: tvrl07031997@gmail.com
+Yago Henrique Zanon Trarbach: yagozt.henrique@gmail.com
 
 ### 2	INTRODUÇÃO E MOTIVAÇAO<br>
 Este documento contém a especificação do projeto do banco de dados <nome do projeto> e motivação da escolha realizada. <br>
       
 ### 3	MINI-MUNDO<br>
-Na visão do cliente o acesso à plataforma será via smartphones e tablets, através de um aplicativo mobile. Ao abrir a aplicação pela primeira vez, o usuário terá a opção de fazer cadastro no sistema (podendo cadastrar diretamente sua conta do facebook) ou fazer login diretamente. Caso não seja cadastrado, irá para a página de cadastro onde fornecerá os seus dados, que são seu nome completo, e-mail e data de nascimento. O cliente já cadastrado, ao fazer o login, terá acesso a uma lista com todos os museus cadastrados no sistema. Cada museu terá uma avaliação de 0 a 5 estrelas, descrição do mesmo, fotos do local e comentários que também podem ser avaliados, se ele foi útil ou não, sendo assim o usuario poderá ordernar pelos comentários mais bem avaliados ou mais recentes. O cliente também poderá visualizar em um mapa sua localização e os estabelecimentos ao seu redor e terá a opção de visualizar o caminho que deverá seguir para chegar
+O appMuseu é um aplicativo voltado para mobilidade e disponibilidade de informações para pessoas e empresas interessadas nas visitas ao museus , as obras que possuem e todas as suas informações. A utilização da aplicação é totalmente feita via aplicativo de celular. 
+
+Na visão do cliente ,ao abrir a aplicação pela primeira vez, o usuário terá a opção de fazer cadastro no sistema (podendo cadastrar diretamente sua conta do facebook) ou fazer login diretamente. Caso não seja cadastrado, irá para a página de cadastro onde fornecerá os seus dados, que são seu nome completo, e-mail e data de nascimento. O cliente já cadastrado, ao fazer o login, terá acesso a uma lista com todos os museus cadastrados no sistema. Cada museu terá uma avaliação de 0 a 5 estrelas, descrição do mesmo, fotos do local e comentários que também podem ser avaliados, se ele foi útil ou não, sendo assim o usuario poderá ordernar pelos comentários mais bem avaliados ou mais recentes. O cliente também poderá visualizar em um mapa sua localização e os estabelecimentos ao seu redor e terá a opção de visualizar o caminho que deverá seguir para chegar.
+
+Caso já esteja em um museu poderá fazer uma avaliação das obras disponíveis e fazer uma busca de obras para verificar suas informações via uma lista disponível onde mostrará o código e nome de cada obra ou através da utilização de QR Code expondo os dados da obra informada.
+
+Para as empresas ao abrir a aplicação deverão realizar o cadastro informando seu CNPJ, nome, localização, se é gratuito a visita ou não, valor para a visita, dias de funcionamento. Após o cadastro da empresa haverá a opção de cadastrar as obras que possue informando o nome, autor, data de fabricação, país de origem, código QRCode se houver. Poderá visualizar os comentários e avaliações feitas pelos clientes sobre o museu, qual obra teve mais visualização e os comentários feito sobre a obra.
 
 ### 4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
