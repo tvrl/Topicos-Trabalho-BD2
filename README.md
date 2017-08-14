@@ -34,7 +34,7 @@ Na visão do cliente, ao abrir a aplicação pela primeira vez, o usuário terá
 
 Caso já esteja em um museu poderá fazer uma avaliação das obras disponíveis e fazer uma busca de obras para verificar suas informações via uma lista disponível onde mostrará o código e nome de cada obra ou através da utilização de QR Code expondo os dados da obra informada.
 
-Para as empresas ao abrir a aplicação deverão realizar o cadastro informando seu CNPJ, nome, localização, se é gratuito a visita ou não, valor para a visita, dias de funcionamento. Após o cadastro da empresa haverá a opção de cadastrar as obras que possue informando o nome, autor, data de fabricação, país de origem, código QRCode se houver. Poderá visualizar os comentários e avaliações feitas pelos clientes sobre o museu, qual obra teve mais visualização e os comentários feito sobre a obra.
+Para as empresas  deverão realizar o cadastro no site informando seu CNPJ, nome, localização, se é gratuito a visita ou não, valor para a visita, dias de funcionamento e criar a senha da conta. Após o cadastro da empresa haverá a opção de cadastrar as obras que possue informando o nome, autor, data de fabricação, país de origem, código QRCode se houver. Poderá visualizar os comentários e avaliações feitas pelos clientes sobre o museu, qual obra teve mais visualização e os comentários feito sobre a obra.
 
 ### 4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
