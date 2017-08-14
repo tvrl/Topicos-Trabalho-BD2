@@ -19,7 +19,7 @@ Trabalho desenvolvido durante a disciplina de BD
 # Sumário
 
 ### 1	COMPONENTES<br>
-Thalles Vargas Ribeiro Lopes: tvrl07031997@gmail.com
+Thalles Vargas Ribeiro Lopes: tvrl07031997@gmail.com<br>
 Yago Henrique Zanon Trarbach: yagozt.henrique@gmail.com
 
 ### 2	INTRODUÇÃO E MOTIVAÇAO<br>
