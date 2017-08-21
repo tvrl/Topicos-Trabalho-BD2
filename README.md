@@ -38,7 +38,7 @@ Para as empresas  deverão realizar o cadastro no site informando seu CNPJ, nome
 
 ### 4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 
-![Alt text](https://github.com/tvrl/Topicos-Trabalho-BD2/blob/master/Prototipo/Museu.pdf)
+![https://github.com/tvrl/Topicos-Trabalho-BD2/blob/master/Prototipo/Museu.pdf](https://github.com/tvrl/Topicos-Trabalho-BD2/blob/master/Prototipo/Museu.pdf)
 
 
 ### 5	MODELO CONCEITUAL<br>
