@@ -37,11 +37,8 @@ Caso já esteja em um museu poderá fazer uma avaliação das obras disponíveis
 Para as empresas  deverão realizar o cadastro no site informando seu CNPJ, nome, localização, se é gratuito a visita ou não, valor para a visita, dias de funcionamento e criar a senha da conta. Após o cadastro da empresa haverá a opção de cadastrar as obras que possue informando o nome, autor, data de fabricação, país de origem, código QRCode se houver. Poderá visualizar os comentários e avaliações feitas pelos clientes sobre o museu, qual obra teve mais visualização e os comentários feito sobre a obra, escrever e editar as informações sobre o museu e editar as informações de cadastro, além de poder criar eventos que notificariam os visitantes que "seguem" seu museu.
 
 ### 4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
 
-Sugestão: https://balsamiq.com/products/mockups/<br>
-
-![Alt text](https://github.com/discipbd2/topicos-trabalho/blob/master/balsamiq.png?raw=true "Title")
+![Alt text](https://github.com/tvrl/Topicos-Trabalho-BD2/blob/master/Prototipo/Museu.pdf)
 
 
 ### 5	MODELO CONCEITUAL<br>
